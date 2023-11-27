@@ -6,3 +6,7 @@ background: #cccccc;
 em, strong{
     color:purple;
 }
+
+.banner{
+    width: 100%;
+}
